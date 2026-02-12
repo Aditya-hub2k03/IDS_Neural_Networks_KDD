@@ -11,7 +11,7 @@
 
 - [Overview](#overview)  
 - [Getting Started](#getting-started)  
-  - [Prerequisites](#prerequisites)  
+  - [Prerequisites](#prerequisites)   
   - [Installation](#installation)  
 - [Usage](#usage)  
 - [Features](#features)  
